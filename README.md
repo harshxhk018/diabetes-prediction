@@ -19,5 +19,5 @@ Machine Learning project to predict diabetes using patient health parameters.
 - diabetes_model.pkl
 
 ## Author
-Harsh Kumar
+Harsh Kumar,
 NIT Calicut
